@@ -4,7 +4,7 @@
 
 在线阅读地址：https://islinxu.github.io/all-learn-notes/#/
 
-## [目录](README.md)
+## 目录
 
 - C++
 
