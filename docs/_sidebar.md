@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 <!-- * [Home](/) -->
-* [C++]()
-* [English]()
+* [C++](./C++/README.md)
+* [English](./English/README.md)
