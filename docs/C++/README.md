@@ -24,7 +24,7 @@
 
 ## 【学习资料】
 
-  腾讯微云：https://share.weiyun.com/YlI6xHUf
-  《游戏编程模式》在线阅读地址： https://gpp.tkchu.me/
-  【C++ Primer Plus编程练习解答（C++11）】
-  【Essential C++》示例与课后习题代码】
+-  腾讯微云：https://share.weiyun.com/YlI6xHUf
+- 《游戏编程模式》在线阅读地址： https://gpp.tkchu.me/
+- 【C++ Primer Plus编程练习解答（C++11）】
+- 【Essential C++》示例与课后习题代码】
