@@ -2,11 +2,11 @@
 
 ## 【书籍】
 
-- （1）《C++ Primer Plus》（入门，已完成）
+- （1）《C++ Primer Plus》（入门）
 
-- （2）《C++20入门实践（第6版）》（入门，已完成）
+- （2）《C++20入门实践（第6版）》（入门）
 
-- （3）《Essential C++》（入门，已完成）
+- （3）《Essential C++》（入门）
 
 - （4）《C++ 语言的设计与演化》（入门）
 
@@ -25,9 +25,6 @@
 ## 【学习资料】
 
   腾讯微云：https://share.weiyun.com/YlI6xHUf
-  《游戏编程模式》在线阅读地址：
-  https://gpp.tkchu.me/
+  《游戏编程模式》在线阅读地址： https://gpp.tkchu.me/
   【C++ Primer Plus编程练习解答（C++11）】
-  https://relph1119.github.io/cpp-primer-plus/#/
   【Essential C++》示例与课后习题代码】
-  https://github.com/Relph1119/essential-cpp-notes

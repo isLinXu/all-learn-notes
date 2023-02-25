@@ -2,11 +2,11 @@
 
 <!-- * [Home](/) -->
 
-* [目录](README.md)
+## 目录
 
-  - C++
+- C++
 
-    - [README](C++/README.md)
-  - English
-    - [README](English/README.md)
+  - [README](C++/README.md)
+- English
+  - [README](English/README.md)
 
